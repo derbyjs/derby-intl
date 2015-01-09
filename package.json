@@ -1,0 +1,20 @@
+{
+  "name": "derby-intl",
+  "version": "0.0.0",
+  "description": "Derby plugin for internationalization",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/derbyjs/derby-intl.git"
+  },
+  "keywords": [
+    "derby",
+    "internationalization",
+    "i18n"
+  ],
+  "author": "rkstedman@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derbyjs/derby-intl/issues"
+  }
+}
